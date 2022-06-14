@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adrnzhrf/Desktop/Desktop.csproj": {}
+    "/Users/adrnzhrf/Desktop/ScrumbleEgg/Desktop.csproj": {}
   },
   "projects": {
-    "/Users/adrnzhrf/Desktop/Desktop.csproj": {
+    "/Users/adrnzhrf/Desktop/ScrumbleEgg/Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adrnzhrf/Desktop/Desktop.csproj",
+        "projectUniqueName": "/Users/adrnzhrf/Desktop/ScrumbleEgg/Desktop.csproj",
         "projectName": "Desktop",
-        "projectPath": "/Users/adrnzhrf/Desktop/Desktop.csproj",
+        "projectPath": "/Users/adrnzhrf/Desktop/ScrumbleEgg/Desktop.csproj",
         "packagesPath": "/Users/adrnzhrf/.nuget/packages/",
-        "outputPath": "/Users/adrnzhrf/Desktop/obj/",
+        "outputPath": "/Users/adrnzhrf/Desktop/ScrumbleEgg/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adrnzhrf/.nuget/NuGet/NuGet.Config"

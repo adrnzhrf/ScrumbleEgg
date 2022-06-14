@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LyD38szfOf+RcZT5BMVEZH2h0C1b+2mlmg1cz4uFWis2Jd9OiSkCHE2aefD+W9iWRNeSA0C3AeWBO/RFcQdm7w==",
+  "dgSpecHash": "6DTYG+tFFkzsMr98TrelFyBSE8XWlRkygQ9iG+JfNI/mEBybptHn3bTc2BU15NakthvvWLHzSArw9U+sTQPk0Q==",
   "success": true,
-  "projectFilePath": "/Users/adrnzhrf/Desktop/Desktop.csproj",
+  "projectFilePath": "/Users/adrnzhrf/Desktop/ScrumbleEgg/Desktop.csproj",
   "expectedPackageFiles": [
     "/Users/adrnzhrf/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/adrnzhrf/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
